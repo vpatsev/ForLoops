@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\07.LattinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\07.LattinLetters.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\07.LattinLetters.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\07.LattinLetters.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\07.LattinLetters.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\bin\Debug\net9.0\07.LattinLetters.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\bin\Debug\net9.0\07.LattinLetters.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\bin\Debug\net9.0\07.LattinLetters.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\bin\Debug\net9.0\07.LattinLetters.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\bin\Debug\net9.0\07.LattinLetters.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\07.LattinLetters.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\refint\07.LattinLetters.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\07.LattinLetters.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\07.LattinLetters.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\07.LattinLetters\obj\Debug\net9.0\ref\07.LattinLetters.dll
