@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\bin\Debug\net9.0\06.ExamCountdown.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\bin\Debug\net9.0\06.ExamCountdown.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\bin\Debug\net9.0\06.ExamCountdown.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\bin\Debug\net9.0\06.ExamCountdown.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\bin\Debug\net9.0\06.ExamCountdown.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\06.ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\06.ExamCountdown.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\06.ExamCountdown.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\06.ExamCountdown.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\06.ExamCountdown.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\06.ExamCountdown.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\refint\06.ExamCountdown.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\06.ExamCountdown.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\06.ExamCountdown.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\06.ExamCountdown\obj\Debug\net9.0\ref\06.ExamCountdown.dll

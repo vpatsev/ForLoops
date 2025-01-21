@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\bin\Debug\net9.0\05.Nums1toNover3.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\bin\Debug\net9.0\05.Nums1toNover3.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\bin\Debug\net9.0\05.Nums1toNover3.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\bin\Debug\net9.0\05.Nums1toNover3.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\bin\Debug\net9.0\05.Nums1toNover3.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\05.Nums1toNover3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\05.Nums1toNover3.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\05.Nums1toNover3.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\05.Nums1toNover3.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\05.Nums1toNover3.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\05.Nums1toNover3.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\refint\05.Nums1toNover3.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\05.Nums1toNover3.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\05.Nums1toNover3.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\05.Nums1toNover3\obj\Debug\net9.0\ref\05.Nums1toNover3.dll
