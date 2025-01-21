@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\bin\Debug\net9.0\03.SumNums.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\bin\Debug\net9.0\03.SumNums.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\bin\Debug\net9.0\03.SumNums.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\bin\Debug\net9.0\03.SumNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\bin\Debug\net9.0\03.SumNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\03.SumNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\03.SumNums.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\03.SumNums.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\03.SumNums.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\03.SumNums.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\03.SumNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\refint\03.SumNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\03.SumNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\03.SumNums.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\03.SumNums\obj\Debug\net9.0\ref\03.SumNums.dll

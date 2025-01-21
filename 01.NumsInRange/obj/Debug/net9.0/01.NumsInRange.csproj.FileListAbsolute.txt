@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\bin\Debug\net9.0\01.NumsInRange.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\bin\Debug\net9.0\01.NumsInRange.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\bin\Debug\net9.0\01.NumsInRange.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\bin\Debug\net9.0\01.NumsInRange.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\bin\Debug\net9.0\01.NumsInRange.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\01.NumsInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\01.NumsInRange.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\01.NumsInRange.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\01.NumsInRange.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\01.NumsInRange.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\01.NumsInRange.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\refint\01.NumsInRange.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\01.NumsInRange.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\01.NumsInRange.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Loops\01.NumsInRange\obj\Debug\net9.0\ref\01.NumsInRange.dll
